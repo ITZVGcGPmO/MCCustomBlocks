@@ -1,0 +1,22 @@
+{
+  "type": "clickable",
+  "lightlevel": 0,
+  "model": {
+    "parent": "block/cube_all",
+    "textures": {
+      "all": "block/carved_pumpkin"
+    },
+    "overrides": [
+      {"predicate": {"model_data":1}, "model": "item/air"},
+      {"predicate": {"model_data":1234567}, "model": "item/test_model"}
+    ],
+    "display": {
+      "head": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 0, 0 ], 
+        "scale": [ 2, 1, 2 ]
+      }
+    }
+  }
+}
+

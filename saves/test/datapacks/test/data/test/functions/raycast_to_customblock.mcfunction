@@ -1,0 +1,4 @@
+# particle dripping_water ~ ~ ~
+execute if block ~ ~ ~ #test:shulker_box align x align y align z positioned ~.5 ~ ~.5 unless entity @e[tag=customblock,distance=..0.01,sort=nearest,limit=1] run playsound minecraft:block.shulker_box.open.replacement block @a ~ ~ ~
+execute if block ~ ~ ~ #test:raycast_cb align x align y align z positioned ~.5 ~ ~.5 as @e[tag=customblock,tag=!raycast_hit,distance=..0.01,sort=nearest,limit=1] run function test:customblock_raycast_hit
+execute unless block ~ ~ ~ #test:raycast_cb positioned ~ ~-1.6 ~ if entity @s[distance=..6] positioned ~ ~1.6 ~ positioned ^ ^ ^.1 run function test:raycast_to_customblock
