@@ -1,0 +1,7 @@
+{
+	"parent": "item/template_spawn_egg",
+	"overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/air"},
+        {"predicate": {"custom_model_data":1234567}, "model": "item/test_model"}
+	]
+}

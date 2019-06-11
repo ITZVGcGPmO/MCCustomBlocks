@@ -1,0 +1,28 @@
+{
+  "block.shulker_box.close.replacement": {
+    "sounds": [
+      "replacements/block/shulker_box/close"
+    ],
+    "subtitle": "subtitles.block.shulker_box.close"
+  },
+  "block.shulker_box.open.replacement": {
+    "sounds": [
+      "replacements/block/shulker_box/open"
+    ],
+    "subtitle": "subtitles.block.shulker_box.open"
+  },
+  "entity.bat.ambient.replacement": {
+    "sounds": [
+      "replacements/mob/bat/idle1",
+      "replacements/mob/bat/idle2",
+      "replacements/mob/bat/idle3",
+      "replacements/mob/bat/idle4"
+    ],
+    "subtitle": "subtitles.entity.bat.ambient"
+  },
+  "custom.wilhelm": {
+    "sounds": [
+      "custom/wilhelm"
+    ]
+  }
+}
