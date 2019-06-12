@@ -1,24 +1,33 @@
 {
-  "block.shulker_box.close.replacement": {
+  "block.shulker_box.close.replaced": {
     "sounds": [
-      "replacements/block/shulker_box/close"
+      "replaced/block/shulker_box/close"
     ],
     "subtitle": "subtitles.block.shulker_box.close"
   },
-  "block.shulker_box.open.replacement": {
+  "block.shulker_box.open.replaced": {
     "sounds": [
-      "replacements/block/shulker_box/open"
+      "replaced/block/shulker_box/open"
     ],
     "subtitle": "subtitles.block.shulker_box.open"
   },
-  "entity.bat.ambient.replacement": {
+  "block.shulker_box.close": {
+    "subtitle": "subtitles.none"
+  },
+  "block.shulker_box.open": {
+    "subtitle": "subtitles.none"
+  },
+  "entity.bat.ambient.replaced": {
     "sounds": [
-      "replacements/mob/bat/idle1",
-      "replacements/mob/bat/idle2",
-      "replacements/mob/bat/idle3",
-      "replacements/mob/bat/idle4"
+      "replaced/mob/bat/idle1",
+      "replaced/mob/bat/idle2",
+      "replaced/mob/bat/idle3",
+      "replaced/mob/bat/idle4"
     ],
     "subtitle": "subtitles.entity.bat.ambient"
+  },
+  "entity.bat.ambient": {
+    "subtitle": "subtitles.none"
   },
   "custom.wilhelm": {
     "sounds": [
