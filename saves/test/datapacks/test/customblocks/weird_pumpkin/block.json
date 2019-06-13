@@ -1,14 +1,14 @@
 {
-  "type": "clickable",
-  "lightlevel": 0,
+  "type": "gui",
+  "defaultparticles": true,
   "model": {
     "parent": "block/cube_all",
     "textures": {
       "all": "block/carved_pumpkin"
     },
     "overrides": [
-      {"predicate": {"model_data":1}, "model": "item/air"},
-      {"predicate": {"model_data":1234567}, "model": "item/test_model"}
+      {"predicate": {"custom_model_data":1}, "model": "item/air"},
+      {"predicate": {"custom_model_data":1234567}, "model": "item/test_model"}
     ],
     "display": {
       "head": {
@@ -19,4 +19,3 @@
     }
   }
 }
-

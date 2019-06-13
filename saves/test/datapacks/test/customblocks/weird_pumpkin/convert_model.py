@@ -18,5 +18,6 @@ for f in listdir(mypath):
         for k in data['display']['head'].copy():
             data['display']['head'][k] = [x*2.2857 for x in data['display']['head'][k]]
         data['display']['head']['translation'][1] = data['display']['head']['translation'][1]-14.664
+        print('')
         print(data)
 # print(onlyfiles)

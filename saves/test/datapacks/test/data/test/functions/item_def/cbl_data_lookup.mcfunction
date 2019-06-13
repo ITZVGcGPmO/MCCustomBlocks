@@ -1,0 +1,2 @@
+data modify entity @s[nbt={CustomName:'{"italic":false,"text":"Weird Pumpkin"}'}] ArmorItems[3].tag.BaseModelData set value 1234567
+data modify entity @s[nbt={CustomName:'{"italic":false,"text":"Weird Pumpkin"}'}] ArmorItems[3].tag.ModelCount set value 1

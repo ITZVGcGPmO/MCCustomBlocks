@@ -1,0 +1,1 @@
+data merge entity @s[nbt={CustomName:'{"italic":false,"text":"Weird Pumpkin"}'}] {Tags:["cbl_spawn","shulker_box"]}

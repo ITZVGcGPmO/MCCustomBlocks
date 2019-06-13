@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cow",
+    "minecraft:donkey",
+    "minecraft:horse",
+    "minecraft:llama",
+    "minecraft:mooshroom",
+    "minecraft:mule",
+    "minecraft:pig",
+    "minecraft:sheep",
+    "minecraft:skeleton_horse",
+    "minecraft:trader_llama",
+    "minecraft:vex",
+    "minecraft:zombie_horse",
+    "#test:2_tall"
+  ]
+}
