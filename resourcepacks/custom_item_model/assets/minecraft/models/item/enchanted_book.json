@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/enchanted_book"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/air"},
+        {"predicate": {"custom_model_data":1234567}, "model": "item/test_model"}
+    ]
+}

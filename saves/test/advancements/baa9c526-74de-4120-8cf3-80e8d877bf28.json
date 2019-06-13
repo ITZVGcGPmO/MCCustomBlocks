@@ -973,7 +973,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2019-06-11 16:40:16 -0700",
+      "minecraft:ghast": "2019-06-11 16:28:00 -0700",
+      "minecraft:vindicator": "2019-06-11 16:23:55 -0700",
       "minecraft:slime": "2019-06-07 14:30:11 -0700",
+      "minecraft:evoker": "2019-06-11 16:18:12 -0700",
+      "minecraft:wither_skeleton": "2019-06-11 16:34:12 -0700",
+      "minecraft:stray": "2019-06-11 16:23:13 -0700",
       "minecraft:zombie": "2019-06-07 23:20:06 -0700"
     },
     "done": false
@@ -3403,6 +3409,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2019-06-09 17:44:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2019-06-11 16:28:00 -0700"
     },
     "done": true
   },

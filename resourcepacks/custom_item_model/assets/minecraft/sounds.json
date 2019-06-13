@@ -12,10 +12,10 @@
     "subtitle": "subtitles.block.shulker_box.open"
   },
   "block.shulker_box.close": {
-    "subtitle": "subtitles.none"
+    "subtitle": ""
   },
   "block.shulker_box.open": {
-    "subtitle": "subtitles.none"
+    "subtitle": ""
   },
   "entity.bat.ambient.replaced": {
     "sounds": [
@@ -27,7 +27,7 @@
     "subtitle": "subtitles.entity.bat.ambient"
   },
   "entity.bat.ambient": {
-    "subtitle": "subtitles.none"
+    "subtitle": ""
   },
   "custom.wilhelm": {
     "sounds": [

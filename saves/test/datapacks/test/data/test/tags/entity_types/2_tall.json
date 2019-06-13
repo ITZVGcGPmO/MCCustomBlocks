@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:blaze",
+    "minecraft:creeper",
+    "minecraft:drowned",
+    "minecraft:evoker",
+    "minecraft:husk",
+    "minecraft:illusioner",
+    "minecraft:panda",
+    "minecraft:pillager",
+    "minecraft:polar_bear",
+    "minecraft:ravager",
+    "minecraft:skeleton",
+    "minecraft:snow_golem",
+    "minecraft:stray",
+    "minecraft:villager",
+    "minecraft:vindicator",
+    "minecraft:wandering_trader",
+    "minecraft:witch",
+    "minecraft:wither_skeleton",
+    "minecraft:zombie",
+    "minecraft:zombie_pigman",
+    "minecraft:zombie_villager",
+    "#test:3_tall"
+  ]
+}
