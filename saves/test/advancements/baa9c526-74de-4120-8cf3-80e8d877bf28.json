@@ -976,6 +976,7 @@
       "minecraft:skeleton": "2019-06-11 16:40:16 -0700",
       "minecraft:ghast": "2019-06-11 16:28:00 -0700",
       "minecraft:vindicator": "2019-06-11 16:23:55 -0700",
+      "minecraft:creeper": "2019-06-13 13:16:06 -0700",
       "minecraft:slime": "2019-06-07 14:30:11 -0700",
       "minecraft:evoker": "2019-06-11 16:18:12 -0700",
       "minecraft:wither_skeleton": "2019-06-11 16:34:12 -0700",
@@ -1887,8 +1888,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-06-07 12:53:11 -0700",
+      "minecraft:forest": "2019-06-14 22:15:12 -0700",
+      "minecraft:desert": "2019-06-14 22:51:55 -0700",
       "minecraft:deep_frozen_ocean": "2019-06-07 13:07:14 -0700",
       "minecraft:snowy_beach": "2019-06-07 12:45:43 -0700",
+      "minecraft:beach": "2019-06-14 22:51:12 -0700",
       "minecraft:river": "2019-06-07 12:39:21 -0700",
       "minecraft:snowy_taiga": "2019-06-07 12:53:44 -0700"
     },

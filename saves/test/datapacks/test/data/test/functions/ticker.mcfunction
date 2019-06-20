@@ -1,3 +1,4 @@
+clear @a minecraft:enchanted_book{CustomModelData:1,display:{Name:'{"text":""}'}}
 execute as @e[type=minecraft:fishing_bobber] at @s run function test:test
 
 execute as @e[type=minecraft:tnt_minecart,nbt={TNTFuse:0}] run tag @s add boom
